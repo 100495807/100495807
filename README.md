@@ -1,30 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:14b8a6&height=220&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Academic%20Portfolio%20|%20Building%20useful%20software&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - GitHub portfolio banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Portfolio%20|%20Systems%2C%20Data%2C%20AI%20and%20Web&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - Computer Science portfolio" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100495807-181717?style=for-the-badge&logo=github)](https://github.com/100495807)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Academic%20Projects-2563eb?style=for-the-badge)](#academic-portfolio)
-[![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-14b8a6?style=for-the-badge)](#about-me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Public%20Projects-2563eb?style=for-the-badge)](#featured-public-projects)
+[![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-14b8a6?style=for-the-badge)](#what-i-build)
 
 </div>
 
-## About Me
+## Hi, I Am Jorge
 
-I am a Computer Science student building a portfolio from the projects I have developed throughout my degree. I use this GitHub profile as a technical record of my evolution: from low-level programming and operating systems to databases, artificial intelligence, web development, distributed systems and human-computer interaction.
+I am a Computer Science student using GitHub as my technical portfolio: a public record of what I have built across my degree, from low-level C programs and operating systems labs to databases, artificial intelligence, distributed systems, cryptography and web projects.
 
 I like projects where code has a clear purpose: solving a concrete problem, explaining an idea, automating a process or making an interaction feel simpler.
 
-## Main Areas
+## What I Build
 
-| Area | What I Have Worked On |
+| Area | What You Will Find Here |
 | --- | --- |
-| Software engineering | Academic projects, structured repositories and maintainable documentation |
-| Operating systems | Shell implementation, processes, concurrency and systems programming |
-| Databases | Database design, SQL, migrations and relational modelling |
-| Data structures and algorithms | Core algorithmic exercises and problem solving |
-| Artificial intelligence | Heuristics, machine learning labs and practical AI experiments |
-| Web and interaction | Frontend, Node.js, real-time communication, canvas and browser APIs |
-| Security | Cryptography projects and applied security foundations |
+| Systems programming | C utilities, process management, shells, concurrency and low-level practice |
+| Software engineering | Python projects, modular design, testing, refactoring and maintainable structure |
+| Databases | Relational modelling, SQL scripts, migrations, indexing and performance work |
+| Algorithms | Data structures, trees, lists, algorithmic exercises and problem solving |
+| Artificial intelligence | Fuzzy inference, machine learning labs, heuristics and optimization models |
+| Web and interaction | Frontend work, browser interaction, static sites and user interface labs |
+| Distributed systems and security | Sockets, RPC-style exercises, cryptography and applied security foundations |
+
+## Featured Public Projects
+
+| Repository | Area | Why It Is Worth Opening |
+| --- | --- | --- |
+| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Web publishing | A presentation-ready GitHub Pages project with structure, content and a clear public-facing purpose. |
+| [G85.2024.T05.EG3](https://github.com/100495807/G85.2024.T05.EG3) | Software engineering | UC3M Travel project evolved with a more modular architecture, persistent storage and unit tests. |
+| [SSOO-Lab2](https://github.com/100495807/SSOO-Lab2) | Operating systems | A mini shell in C with command execution, redirections, pipelines, background processes and built-ins. |
+| [FFBBDD-Lab3](https://github.com/100495807/FFBBDD-Lab3) | Databases | Database performance work around indexes, clusters, workloads and PL/SQL experimentation. |
+| [trabajo-IA-3.9](https://github.com/100495807/trabajo-IA-3.9) | Artificial intelligence | A Mamdani fuzzy inference system with Python, NumPy, scikit-fuzzy, rules and visual outputs. |
+| [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems | Distributed systems labs covering sockets, C/Python communication, SOAP/RPC-style work and P2P ideas. |
 
 ## Academic Portfolio
 
@@ -32,69 +43,56 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 
 | Repository | Description |
 | --- | --- |
-| [SSOO-Lab1](https://github.com/100495807/SSOO-Lab1) | Operating systems laboratory work. |
-| [SSOO-Lab2](https://github.com/100495807/SSOO-Lab2) | Shell creation project and process management practice. |
-| [SSOO-Lab3](https://github.com/100495807/SSOO-Lab3) | Advanced operating systems laboratory work. |
-| [EstructuraDeComputadores-Lab1](https://github.com/100495807/EstructuraDeComputadores-Lab1) | Computer architecture and structure laboratory work. |
-| [EstructuraDeComputadores-Lab2](https://github.com/100495807/EstructuraDeComputadores-Lab2) | Computer structure practice repository. |
+| [SSOO-Lab1](https://github.com/100495807/SSOO-Lab1) | Unix-style C utilities, Makefile workflow and operating systems fundamentals. |
+| [SSOO-Lab2](https://github.com/100495807/SSOO-Lab2) | Custom C shell with process creation, execution, redirection, pipes, background jobs and history. |
+| [EstructuraDeComputadores-Lab1](https://github.com/100495807/EstructuraDeComputadores-Lab1) | Assembly practice around registers, stack usage, subroutines and numerical approximation. |
+| [EstructuraDeComputadores-Lab2](https://github.com/100495807/EstructuraDeComputadores-Lab2) | Computer structure laboratory work focused on low-level execution and microprogramming concepts. |
+
+### Software Engineering, Algorithms And Languages
+
+| Repository | Description |
+| --- | --- |
+| [G85.2024.T05.EG2](https://github.com/100495807/G85.2024.T05.EG2) | UC3M Travel hotel management exercise with Python, JSON persistence and unit testing. |
+| [G85.2024.T05.EG3](https://github.com/100495807/G85.2024.T05.EG3) | Refactored UC3M Travel version with better separation between models, attributes, managers and storage. |
+| [EDA-Lab1](https://github.com/100495807/EDA-Lab1) | Linked list exercises and data structure operations in Python. |
+| [EDA-Lab2](https://github.com/100495807/EDA-Lab2) | Binary tree and binary search tree exercises, including traversal and set-like operations. |
+| [Program-Final_Project](https://github.com/100495807/Program-Final_Project) | Arcade-style game built with Python and Pyxel. |
+| [PL-practicas](https://github.com/100495807/PL-practicas) | Programming languages practice with Flex, Bison/Yacc, ASTs and translator exercises. |
 
 ### Databases
 
 | Repository | Description |
 | --- | --- |
-| [FFBBDD-Lab1](https://github.com/100495807/FFBBDD-Lab1) | Migration from an old database model to a modernized one. |
-| [FFBBDD-Lab2](https://github.com/100495807/FFBBDD-Lab2) | Database foundations laboratory work. |
-| [FFBBDD-Lab3](https://github.com/100495807/FFBBDD-Lab3) | Database foundations laboratory work. |
+| [FFBBDD-Lab1](https://github.com/100495807/FFBBDD-Lab1) | Migration from an old database design to a relational model for a coffee shop scenario. |
+| [FFBBDD-Lab2](https://github.com/100495807/FFBBDD-Lab2) | Relational modelling, SQL scripts, assumptions and database foundations exercises. |
+| [FFBBDD-Lab3](https://github.com/100495807/FFBBDD-Lab3) | Database performance lab with indexes, clusters, workload scripts and PL/SQL procedures. |
 
-### Algorithms, Programming And Languages
-
-| Repository | Description |
-| --- | --- |
-| [EDA-Lab1](https://github.com/100495807/EDA-Lab1) | Data structures and algorithms laboratory work. |
-| [EDA-Lab2](https://github.com/100495807/EDA-Lab2) | Data structures and algorithms laboratory work. |
-| [Program-Final_Project](https://github.com/100495807/Program-Final_Project) | Final programming project. |
-| [PL-practicas](https://github.com/100495807/PL-practicas) | Programming languages practice repository. |
-
-### AI, Heuristics And Machine Learning
+### AI, Heuristics And Optimization
 
 | Repository | Description |
 | --- | --- |
-| [Trabajo-IA](https://github.com/100495807/Trabajo-IA) | Artificial intelligence academic project. |
-| [trabajo-IA-3.9](https://github.com/100495807/trabajo-IA-3.9) | Artificial intelligence project repository. |
-| [lab1-heuristica](https://github.com/100495807/lab1-heuristica) | Heuristic problem-solving laboratory work. |
-| [lab2-heuristica](https://github.com/100495807/lab2-heuristica) | Heuristic problem-solving laboratory work. |
-| [Labs-AA](https://github.com/100495807/Labs-AA) | Machine learning laboratory work. |
-| [Lab-AA-P2](https://github.com/100495807/Lab-AA-P2) | Machine learning second practice repository. |
+| [Trabajo-IA](https://github.com/100495807/Trabajo-IA) | Artificial intelligence project based on fuzzy logic, rules and risk inference. |
+| [trabajo-IA-3.9](https://github.com/100495807/trabajo-IA-3.9) | Mamdani fuzzy inference system implemented with Python, NumPy, scikit-fuzzy and generated plots. |
+| [lab1-heuristica](https://github.com/100495807/lab1-heuristica) | Optimization models written for GLPK/MathProg around flights, seats and scheduling constraints. |
+| [lab2-heuristica](https://github.com/100495807/lab2-heuristica) | Constraint satisfaction and A* search exercises for aircraft maintenance and taxi planning. |
 
-### Web, Interaction And Applied Projects
+### Web, Interaction, Distributed Systems And Security
 
 | Repository | Description |
 | --- | --- |
-| [Proyecto-SIU](https://github.com/100495807/Proyecto-SIU) | Browser interaction projects with Node.js, Socket.IO, canvas, sensors and MediaPipe. |
-| [lab_1_interfaces](https://github.com/100495807/lab_1_interfaces) | User interface laboratory work. |
-| [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems laboratory work. |
-| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | GitHub Pages project for a daily automotive publication. |
+| [lab_1_interfaces](https://github.com/100495807/lab_1_interfaces) | Static web interface laboratory project with HTML, CSS, images and multi-page navigation. |
+| [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems laboratories involving sockets, clients, servers and service-oriented exercises. |
+| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Applied cryptography desktop project with encryption, certificates, signatures and SQLite storage. |
+| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Public web project focused on automotive content and GitHub Pages delivery. |
 
-### Security
+## Portfolio Status
 
-| Repository | Description |
-| --- | --- |
-| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Cryptography academic project. |
+This profile has been reorganized as a readable portfolio rather than a raw list of coursework:
 
-## Featured Project
-
-### El Garaje de Hompa
-
-[El Garaje de Hompa](https://github.com/100495807/el-garaje-de-hompa) is a GitHub Pages publication focused on automotive culture, buying guides and opinionated technical writing. It is one of the most presentation-ready projects in this profile because it combines content, structure, publishing workflow and web delivery.
-
-## Current Portfolio Work
-
-This profile is being actively improved:
-
-- Adding useful README files to academic repositories.
-- Grouping projects by technical area.
-- Turning old university submissions into readable portfolio pieces.
-- Highlighting the projects that best show engineering growth.
+- Main public repositories are grouped by technical area.
+- Academic repositories have README files that explain the goal, structure and technologies used.
+- Private coursework is documented separately and not linked here when repository visibility is restricted.
+- The strongest public repositories to pin first are the six projects in the featured section.
 
 ## Contact
 
