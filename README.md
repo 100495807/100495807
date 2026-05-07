@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Portfolio%20|%20Academic%20Work%20and%20Real%20Projects&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - Computer Science portfolio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Portfolio%20|%20Projects%20and%20Academic%20Archive&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - Computer Science portfolio" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100495807-181717?style=for-the-badge&logo=github)](https://github.com/100495807)
-[![Projects](https://img.shields.io/badge/Projects-Academic%20and%20Non--Academic-2563eb?style=for-the-badge)](#non-academic-projects)
+[![Projects](https://img.shields.io/badge/Projects-Active%20and%20Archived-2563eb?style=for-the-badge)](#active-non-academic-projects)
 [![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-14b8a6?style=for-the-badge)](#what-i-build)
 
 </div>
 
 ## Hi, I Am Jorge
 
-I am a Computer Science student using GitHub as my technical portfolio: a public record of what I have built across my degree, plus a small set of non-academic projects where I apply that knowledge to real websites and product ideas.
+I am a Computer Science student using GitHub as my technical portfolio: active personal projects plus an archived record of the academic work I built throughout my degree.
 
 I like projects where code has a clear purpose: solving a concrete problem, explaining an idea, automating a process or making an interaction feel simpler.
 
@@ -26,14 +26,16 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 | Web and interaction | Frontend work, browser interaction, static sites and user interface labs |
 | Distributed systems and security | Sockets, RPC-style exercises, cryptography and applied security foundations |
 
-## Non-Academic Projects
+## Active Non-Academic Projects
 
 | Project | Visibility | Area | Why It Is Worth Opening |
 | --- | --- | --- | --- |
 | [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Public | Web publishing | A presentation-ready GitHub Pages project with structure, content and a clear public-facing purpose. |
 | GK_alcorcon | Private | Web development | Astro/Tailwind website for a goalkeeper training school. Kept private while content, branding and deployment details are reviewed. |
 
-## Featured Academic Projects
+## Selected Academic Archive
+
+These repositories are archived because they are completed university projects. They remain visible as a read-only record of the work.
 
 | Repository | Area | Why It Is Worth Opening |
 | --- | --- | --- |
@@ -42,9 +44,9 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 | [FFBBDD-Lab3](https://github.com/100495807/FFBBDD-Lab3) | Databases | Database performance work around indexes, clusters, workloads and PL/SQL experimentation. |
 | [trabajo-IA-3.9](https://github.com/100495807/trabajo-IA-3.9) | Artificial intelligence | A Mamdani fuzzy inference system with Python, NumPy, scikit-fuzzy, rules and visual outputs. |
 | [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems | Distributed systems labs covering sockets, C/Python communication, SOAP/RPC-style work and P2P ideas. |
-| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Security | Applied cryptography desktop project with encryption, certificates, signatures and SQLite storage. |
+| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Security | Applied cryptography desktop project with environment-based SMTP configuration and generated artifacts excluded from Git. |
 
-## Academic Portfolio
+## Full Academic Archive
 
 ### Systems And Low-Level Programming
 
@@ -91,15 +93,16 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 | [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems laboratories involving sockets, clients, servers and service-oriented exercises. |
 | [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Applied cryptography desktop project with environment-based SMTP configuration and generated artifacts excluded from Git. |
 
+## Collaborative Work
+
+Some academic projects were developed in teams. When a repository is owned by another teammate, I reference it only if my role can be clearly documented through commits, collaborator access, a fork, or a short note explaining my contribution.
+
 ## Portfolio Status
 
-This profile has been reorganized as a readable portfolio rather than a raw list of coursework:
-
-- Non-academic projects are separated from university coursework.
-- Main academic repositories are grouped by technical area.
-- Academic repositories have README files that explain the goal, structure and technologies used.
+- Active non-academic projects stay unarchived.
+- Completed academic repositories are archived as read-only coursework.
 - Private projects are documented carefully and not linked when repository visibility is restricted.
-- The strongest public repositories to pin first are the non-academic public project plus the featured academic projects.
+- Team repositories can be added as collaborative work when ownership and contribution are clear.
 
 ## Contact
 
