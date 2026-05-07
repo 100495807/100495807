@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Portfolio%20|%20Systems%2C%20Data%2C%20AI%20and%20Web&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - Computer Science portfolio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Jorge%20Mejias%20Donoso&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Portfolio%20|%20Academic%20Work%20and%20Real%20Projects&descSize=16&descAlignY=58" alt="Jorge Mejias Donoso - Computer Science portfolio" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100495807-181717?style=for-the-badge&logo=github)](https://github.com/100495807)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Public%20Projects-2563eb?style=for-the-badge)](#featured-public-projects)
+[![Projects](https://img.shields.io/badge/Projects-Academic%20and%20Non--Academic-2563eb?style=for-the-badge)](#non-academic-projects)
 [![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-14b8a6?style=for-the-badge)](#what-i-build)
 
 </div>
 
 ## Hi, I Am Jorge
 
-I am a Computer Science student using GitHub as my technical portfolio: a public record of what I have built across my degree, from low-level C programs and operating systems labs to databases, artificial intelligence, distributed systems, cryptography and web projects.
+I am a Computer Science student using GitHub as my technical portfolio: a public record of what I have built across my degree, plus a small set of non-academic projects where I apply that knowledge to real websites and product ideas.
 
 I like projects where code has a clear purpose: solving a concrete problem, explaining an idea, automating a process or making an interaction feel simpler.
 
@@ -26,16 +26,23 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 | Web and interaction | Frontend work, browser interaction, static sites and user interface labs |
 | Distributed systems and security | Sockets, RPC-style exercises, cryptography and applied security foundations |
 
-## Featured Public Projects
+## Non-Academic Projects
+
+| Project | Visibility | Area | Why It Is Worth Opening |
+| --- | --- | --- | --- |
+| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Public | Web publishing | A presentation-ready GitHub Pages project with structure, content and a clear public-facing purpose. |
+| GK_alcorcon | Private | Web development | Astro/Tailwind website for a goalkeeper training school. Kept private while content, branding and deployment details are reviewed. |
+
+## Featured Academic Projects
 
 | Repository | Area | Why It Is Worth Opening |
 | --- | --- | --- |
-| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Web publishing | A presentation-ready GitHub Pages project with structure, content and a clear public-facing purpose. |
 | [G85.2024.T05.EG3](https://github.com/100495807/G85.2024.T05.EG3) | Software engineering | UC3M Travel project evolved with a more modular architecture, persistent storage and unit tests. |
 | [SSOO-Lab2](https://github.com/100495807/SSOO-Lab2) | Operating systems | A mini shell in C with command execution, redirections, pipelines, background processes and built-ins. |
 | [FFBBDD-Lab3](https://github.com/100495807/FFBBDD-Lab3) | Databases | Database performance work around indexes, clusters, workloads and PL/SQL experimentation. |
 | [trabajo-IA-3.9](https://github.com/100495807/trabajo-IA-3.9) | Artificial intelligence | A Mamdani fuzzy inference system with Python, NumPy, scikit-fuzzy, rules and visual outputs. |
 | [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems | Distributed systems labs covering sockets, C/Python communication, SOAP/RPC-style work and P2P ideas. |
+| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Security | Applied cryptography desktop project with encryption, certificates, signatures and SQLite storage. |
 
 ## Academic Portfolio
 
@@ -82,17 +89,17 @@ I like projects where code has a clear purpose: solving a concrete problem, expl
 | --- | --- |
 | [lab_1_interfaces](https://github.com/100495807/lab_1_interfaces) | Static web interface laboratory project with HTML, CSS, images and multi-page navigation. |
 | [Labs-SSDD](https://github.com/100495807/Labs-SSDD) | Distributed systems laboratories involving sockets, clients, servers and service-oriented exercises. |
-| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Applied cryptography desktop project with encryption, certificates, signatures and SQLite storage. |
-| [el-garaje-de-hompa](https://github.com/100495807/el-garaje-de-hompa) | Public web project focused on automotive content and GitHub Pages delivery. |
+| [proyecto-criptografia](https://github.com/100495807/proyecto-criptografia) | Applied cryptography desktop project with environment-based SMTP configuration and generated artifacts excluded from Git. |
 
 ## Portfolio Status
 
 This profile has been reorganized as a readable portfolio rather than a raw list of coursework:
 
-- Main public repositories are grouped by technical area.
+- Non-academic projects are separated from university coursework.
+- Main academic repositories are grouped by technical area.
 - Academic repositories have README files that explain the goal, structure and technologies used.
-- Private coursework is documented separately and not linked here when repository visibility is restricted.
-- The strongest public repositories to pin first are the six projects in the featured section.
+- Private projects are documented carefully and not linked when repository visibility is restricted.
+- The strongest public repositories to pin first are the non-academic public project plus the featured academic projects.
 
 ## Contact
 
