@@ -99,8 +99,6 @@ This profile is being actively improved:
 ## Contact
 
 - GitHub: [100495807](https://github.com/100495807)
-- LinkedIn: add your LinkedIn URL here
-- Email: add your preferred contact email here
 
 <div align="center">
 
